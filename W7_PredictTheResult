@@ -30,3 +30,11 @@ color: #000000; }
 <nav role="navigation">
 <ul> <li> <a href="index.html">Home</a></ul>
 </nav>
+<aside role="complementary"><h2>Newsletter</h2><p>Get monthly updates and free offers. Contact <a href="mailto:me@trilliummediadesign.com">Trillium</a> to sign up for our newsletter.</p>
+</aside>
+<main role="main">
+<p>Text here</p>
+</main>
+</div>
+</body>
+</html>
