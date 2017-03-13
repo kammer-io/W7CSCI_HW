@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Predict the Result</title>
+<meta charset="utf-8">
+<style>
+body {background-color: #eaeaea;
+color: #000;
+font-family: Verdana, Arial, sans-serif; }
+#wrapper { width: 80%;
+margin: auto;
+overflow: auto;
+min-width: 960px;
+background-color: #d5edb3;}
+nav { float: left;
+width: 150px; }
+main { margin-left: 160px;
+margin-right: 160px;
+background-color: #ffffff;
+padding: 10px;
+aside {float: right;
+width: 150px;
+color: #000000; }
+
+</style>
+
+</head>
+<body>
+<div id="wrapper"> <header role="banner"><h1>Trillium Media Design</h1></header>
+<nav role="navigation">
+<ul> <li> <a href="index.html">Home</a></ul>
+</nav>
